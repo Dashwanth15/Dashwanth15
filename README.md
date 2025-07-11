@@ -54,8 +54,9 @@ Java Proficiency: Strengthening object-oriented design and backend logic with Ja
 
 I'm always open to new ideas, collaborations, and conversations about tech, learning, and growth.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/dashwanth-madduri-6b073a31b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dashwanth-madduri-6b073a31b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dashwanthmadduri@gmail.com)
+
 
 ---
 
